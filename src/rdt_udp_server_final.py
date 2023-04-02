@@ -112,4 +112,4 @@ def upld(file_name):
     print("Transfer Complete")
 
 
-upld("rec.txt")
+upld("recv.txt")
